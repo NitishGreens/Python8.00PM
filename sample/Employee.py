@@ -10,3 +10,10 @@ def sub(a, b):
 
 
 sub(10, 20)
+
+
+def mul(a, b):
+    print(a * b)
+
+
+mul(20, 10)
